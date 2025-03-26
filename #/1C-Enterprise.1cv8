@@ -1,0 +1,4 @@
+// Hello World in 1C:Enterprise built-in script language
+Procedure HelloWorld()
+    Message("Hello, World!");
+EndProcedure
