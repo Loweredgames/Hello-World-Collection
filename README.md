@@ -14,4 +14,12 @@ main() {
 It will not include esoteric languages ​​except with human language and derived natural languages ​​like music. There will always be a comment at the top to understand the language that is being used. The sources are below.
 
 # Sources:
-👍
+Sources:https://www.1ci.com/developers/
+
+# Template Hello World:
+
+```Hello World
+// Hello World with comment with reference to language. Sources:link website
+
+code hello world
+````

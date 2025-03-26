@@ -1,4 +1,5 @@
-// Hello World in 1C:Enterprise built-in script language
+// Hello World in 1C:Enterprise built-in script language. Sources:https://www.1ci.com/developers/
+
 Procedure HelloWorld()
     Message("Hello, World!");
 EndProcedure
