@@ -1,0 +1,3 @@
+// Hello World in 4D language Sources:https://en.wikipedia.org/wiki/4th_Dimension_(software)
+
+ALERT("Hello World!")
