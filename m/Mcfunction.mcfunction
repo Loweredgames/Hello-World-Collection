@@ -1,3 +1,3 @@
-# Hello world in mcfunction Sources:link website
+# Hello world in mcfunction Source:link website
 
 say Hello World
